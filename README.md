@@ -11,7 +11,7 @@ DSI-113020 | 02.11.2021
 #### - [Data Collection](https://github.com/Rameshbabupv/dsi1130-project-5#data-collection)
 #### - [Data Cleaning and EDA](https://github.com/Rameshbabupv/dsi1130-project-5#data-cleaning-and-eda)
 #### - [Modeling](https://github.com/Rameshbabupv/dsi1130-project-5#modeling)
-#### - [Data Limitations and Constraints](https://github.com/Rameshbabupv/dsi1130-project-5#data-limitation-and-constraints)
+#### - [Data Limitations and Constraints](https://github.com/Rameshbabupv/dsi1130-project-5#data-limitations-and-constraints)
 #### - [Future Work](https://github.com/Rameshbabupv/dsi1130-project-5#future-work)
 #### - [Final Conclusions and Summary](https://github.com/Rameshbabupv/dsi1130-project-5#final-conclusions-and-summary)
 
