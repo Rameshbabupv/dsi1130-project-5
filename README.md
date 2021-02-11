@@ -5,8 +5,7 @@ DSI-113020 | 02.11.2021
 
 ## Problem Statement
 
-In the past year, restaurants accross the country have been widely impacted by the COVID-19 pandemic. This has led to widespread business closures and sudden job loss for many in the service industry. Our objective is to to determine if business reviews are a viable predictor for whether a business has remained open or not. _____MORE_____  
-
+The restaurant industry is extremely competitive with 80% of restaurants closing within their first 5 years of operation. This is important because restaurant closures can lead to job loss, which can hurt families both emotionally and financially. To avoid this, and to make sure that their restaurants succeed, owners take feedback from a variety of sources, and either resolve any negative critiques or focus on any areas of praise.  Looking solely at Yelp reviews, does the text in the review have any predictive power into whether or not a restaurant’s operating status is open or closed? 
 
 
 ## Project Directory
@@ -14,28 +13,31 @@ In the past year, restaurants accross the country have been widely impacted by t
 project-3
 |__ code
 |   |__ 01-Data_Collection.ipynb
-|   |__ 02-ML_Modeling.ipynb
-|   |__ 02-01-NN-Model.ipynb
-|   |__ EDA.ipynb
+|   |__ 02-EDA.ipynb
+|   |__ 03-ML_Modeling.ipynb
+|   |__ 04-NN_Model.ipynb
 |__ data
 |   |__ Las_Vegas_400.csv
 |__ presentation
+|   |--project_5_yelp_reviews.pdf
 |   |__images
 |      |__char_count_dist.png
+|      |__custom_vocab_separate.png
+|      |__importances.png
+|      |__sentiment_per_business.png
 |      |__star_rating_dist.png
 |      |__top_10_words.png
 |      |__top_20_bigrams.png
 |      |__top_20_trigrams.png
-|      |__top_20_words.png
 |      |__word_count_dist.png
 |__ README.md
 ```
 
 ## Executive Summary
 
-This project consisted of ____ major phases: Data Collection, Data Cleaning and EDA, Modeling, _______________. 
+This project consisted of 3 major phases: [Data Collection](https://github.com/Rameshbabupv/dsi1130-project-5#data-collection), [Data Cleaning and EDA](https://github.com/Rameshbabupv/dsi1130-project-5#data-cleaning-and-eda), and [Modeling](https://github.com/Rameshbabupv/dsi1130-project-5#modeling). 
 
-The original dataset consisted of about 8 million reviews from businesses across North America. To build out an initial proof of concept, we decided to focus specifically on restaurants in the city that was most represented in the dataset: Las Vegas. 
+The original dataset consisted of about 8 million reviews from businesses across North America. To build out an initial proof of concept, we decided to focus specifically on restaurants in the city that was most represented in the dataset: Las Vegas. We combined the reviews for each business into one body of text, and fit a wide variety of models to compare. 
 
 ## Data Collection
 
