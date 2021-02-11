@@ -22,7 +22,7 @@ The restaurant industry is extremely competitive with 80% of restaurants closing
 
 ## Project Directory
 ```
-project-3
+project-5
 |__ code
 |   |__ 01-Data_Collection.ipynb
 |   |__ 02-EDA.ipynb
