@@ -3,6 +3,18 @@
 
 DSI-113020 | 02.11.2021
 
+## Contents:
+
+#### - [Problem Statement](https://github.com/Rameshbabupv/dsi1130-project-5#problem-statement)
+#### - [Project Directory](https://github.com/Rameshbabupv/dsi1130-project-5#project-directory)
+#### - [Executive Summary](https://github.com/Rameshbabupv/dsi1130-project-5#executive-summary)
+#### - [Data Collection](https://github.com/Rameshbabupv/dsi1130-project-5#data-collection)
+#### - [Data Cleaning and EDA](https://github.com/Rameshbabupv/dsi1130-project-5#data-cleaning-and-eda)
+#### - [Modeling](https://github.com/Rameshbabupv/dsi1130-project-5#modeling)
+#### - [Data Limitations and Constraints](https://github.com/Rameshbabupv/dsi1130-project-5#data-limitation-and-constraints)
+#### - [Future Work](https://github.com/Rameshbabupv/dsi1130-project-5#future-work)
+#### - [Final Conclusions and Summary](https://github.com/Rameshbabupv/dsi1130-project-5#final-conclusions-and-summary)
+
 ## Problem Statement
 
 The restaurant industry is extremely competitive with 80% of restaurants closing within their first 5 years of operation. This is important because restaurant closures can lead to job loss, which can hurt families both emotionally and financially. To avoid this, and to make sure that their restaurants succeed, owners take feedback from a variety of sources, and either resolve any negative critiques or focus on any areas of praise.  Looking solely at Yelp reviews, does the text in the review have any predictive power into whether or not a restaurant’s operating status is open or closed? 
@@ -30,6 +42,7 @@ project-3
 |      |__top_20_bigrams.png
 |      |__top_20_trigrams.png
 |      |__word_count_dist.png
+|__ requirements.txt
 |__ README.md
 ```
 
